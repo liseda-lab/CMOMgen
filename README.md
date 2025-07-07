@@ -8,8 +8,6 @@ The following files are shared:
 * run_prompts.py: Prompts chatGPT using its API
 * evaluate.py: Evaluates the resulting constructs using our graph edit ditance-based metrics
 
-
-**Overview of the full strategy:**
 <p align="center">
 <img src="./figures/full-CMOMgen.png" data-canonical-src="./figures/full-CMOMgen.png" width="400" />
 </p>
