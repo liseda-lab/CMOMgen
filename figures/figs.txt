@@ -1,3 +1,0 @@
-* full-CMOMgen.png
-* graph-HP0008163.png
-* class-selection.png
