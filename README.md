@@ -9,7 +9,7 @@ The following files are shared:
 * evaluate.py: Evaluates the resulting constructs using our graph edit ditance-based metrics
 
 <p align="center">
-<img src="./figures/full-CMOMgen.png" data-canonical-src="./figures/full-CMOMgen.png" width="400" />
+<img src="./figures/full-CMOMgen.png" data-canonical-src="./figures/full-CMOMgen.png" width="900" />
 </p>
 
 
