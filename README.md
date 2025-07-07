@@ -17,7 +17,7 @@ The following files are shared:
 
 **Input:** CMOMgen takes as input one source ontology and any number of target ontologies.
 
-**Class selection**: based on [CMOM-RS]([url](https://github.com/liseda-lab/CMOM-RS)), combines a lexical approach and a language model approach to find relevant classes to construct the complex mappings
+**Class selection**: based on [CMOM-RS](https://github.com/liseda-lab/CMOM-RS), combines a lexical approach and a language model approach to find relevant classes to construct the complex mappings
 
 **Pattern extraction**: Filters reference complex mappings to match the selected classes in namespace and cardinality
 
