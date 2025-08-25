@@ -7,6 +7,7 @@ The following files are shared:
 * main.java: Runs the entire pipeline
 * run_prompts.py: Prompts chatGPT using its API
 * evaluate.py: Evaluates the resulting constructs using our graph edit ditance-based metrics
+* reference alignments for three tasks based on three different biomedical ontologies: Human Phenotype ontology (HP), Mammalian Phenotype ontology (MP), Worm Phenotype ontology (WBP). 
 
 <p align="center">
 <img src="./figures/full-CMOMgen.png" data-canonical-src="./figures/full-CMOMgen.png" width="900" />
