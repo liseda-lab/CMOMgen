@@ -21,3 +21,5 @@ The following files are shared:
 **Pattern extraction**: Filters reference complex mappings to match the selected classes in namespace and cardinality
 
 **Mapping composition**: Prompts a language model using the selected classes and the examples to provide a finalized computer-readable complex mapping.
+
+Reference alignments are also shared in IEEE DataPort with DOI [10.21227/btb7-yd20](https://dx.doi.org/10.21227/btb7-yd20).
