@@ -7,8 +7,14 @@ The following files are shared:
 * main.java: Runs the entire pipeline
 * run_prompts.py: Prompts chatGPT using its API
 * evaluate.py: Evaluates the resulting constructs using our graph edit ditance-based metrics
-* reference alignments for three tasks based on three different biomedical ontologies: Human Phenotype ontology (HP), Mammalian Phenotype ontology (MP), Worm Phenotype ontology (WBP). 
+* reference alignments for three tasks based on three different biomedical ontologies (also shared in IEEE DataPort with DOI [10.21227/btb7-yd20](https://dx.doi.org/10.21227/btb7-yd20))
 
+The matching tasks used were:
+- Human Phenotype Ontology (HP) vs. Cell Ontology (CL), Chemical Entities of Biological Interest (ChEBI), Gene Ontology (GO), Phenotype and Trait Ontology (PATO), Uber Anatomy Ontology (UBERON)
+- Mammalian Phenotype Ontology (MP) vs. Cell Ontology (CL), Chemical Entities of Biological Interest (ChEBI), Gene Ontology (GO), Phenotype and Trait Ontology (PATO), Uber Anatomy Ontology (UBERON)
+- Worm Phenotype Ontology (WBP) vs. Chemical Entities of Biological Interest (ChEBI), Gene Ontology (GO), Phenotype and Trait Ontology (PATO), _C.elegans_ Gross Anatomy Ontology (WBbt)
+
+### Methodology
 <p align="center">
 <img src="./figures/full-CMOMgen.png" data-canonical-src="./figures/full-CMOMgen.png" width="900" />
 </p>
@@ -21,5 +27,3 @@ The following files are shared:
 **Pattern extraction**: Filters reference complex mappings to match the selected classes in namespace and cardinality
 
 **Mapping composition**: Prompts a language model using the selected classes and the examples to provide a finalized computer-readable complex mapping.
-
-Reference alignments are also shared in IEEE DataPort with DOI [10.21227/btb7-yd20](https://dx.doi.org/10.21227/btb7-yd20).
