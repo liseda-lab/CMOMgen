@@ -16,7 +16,7 @@ The matching tasks used were:
 
 ### Methodology
 <p align="center">
-<img src="./figures/CMOMgen_workflow.png" data-canonical-src="./figures/CMOMgen_workflow.png" width="900" />
+<img src="./figures/CMOMgen_workflow.jpg" data-canonical-src="./figures/CMOMgen_workflow.jpg" width="900" />
 </p>
 
 
