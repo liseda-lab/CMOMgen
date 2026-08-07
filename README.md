@@ -16,7 +16,7 @@ The matching tasks used were:
 
 ### Methodology
 <p align="center">
-<img src="./figures/full-CMOMgen.png" data-canonical-src="./figures/full-CMOMgen.png" width="900" />
+<img src="./figures/CMOMgen_workflow.png" data-canonical-src="./figures/CMOMgen_workflow.png" width="900" />
 </p>
 
 
@@ -27,3 +27,16 @@ The matching tasks used were:
 **Pattern extraction**: Filters reference complex mappings to match the selected classes in namespace and cardinality
 
 **Mapping composition**: Prompts a language model using the selected classes and the examples to provide a finalized computer-readable complex mapping.
+
+### Reference
+Silva, M. C., Faria, D., & Pesquita, C. (2026). CMOMgen: Complex multi-ontology alignment via pattern-guided in-context learning. Journal of Web Semantics, 100884.
+
+```
+@article{silva2026cmomgen,
+  title={CMOMgen: Complex Multi-Ontology Alignment via Pattern-Guided In-Context Learning},
+  author={Silva, Marta Contreiras and Faria, Daniel and Pesquita, Catia},
+  journal={Journal of Web Semantics},
+  pages={100884},
+  year={2026},
+  publisher={Elsevier}
+}
